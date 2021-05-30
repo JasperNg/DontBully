@@ -1,5 +1,5 @@
 # DontBully
-![alt text](./bully.png) \
+![alt text](./bully.png)
 
 A Discord Bot that detects cyberbullying using Sentiment Analysis. bot.py is the bot code. sentai.py is the training code. 
 
