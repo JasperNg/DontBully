@@ -2,8 +2,9 @@
 A Discord Bot that detects cyberbullying using Sentiment Analysis. bot.py is the bot code. sentai.py is the training code. 
 
 ### Steps to use: 
-1. Set up an Anaconda environment on Windows 10 with the requirements below.
+1. Set up an Anaconda environment on Windows 10 with the requirements below. 
 2. Create a Discord Application with Admin priveledges and add the token in the marked area in bot.py. 
+3. Connect the environment to Pycharm and run the code normally.
 
 
 ### Requirements: 
