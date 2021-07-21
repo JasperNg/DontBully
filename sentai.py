@@ -59,7 +59,7 @@ if jsonini == "y":
     with open('config.json', 'w') as t:
         json.dump(config, t)
 
-#USE Model and proprocessing with Pandas Dataframe
+#USE Model and proprocessing with Pandas Dataframe from Amit Chaudhary (START)
 
 df = pd.read_csv(dataPath)
 
@@ -91,5 +91,8 @@ model.fit(x_train,
           y_train,
           epochs=2,
           validation_data=(x_test, y_test))
+
+#USE Model and proprocessing with Pandas Dataframe from Amit Chaudhary (END)
+
 
 model.save(str(modelPath) + '/my_model.h5')
