@@ -1,7 +1,7 @@
 # DontBully
 ![alt text](./bully.png)
 
-A Discord Bot that detects cyberbullying using Sentiment Analysis. bot.py is the bot code. sentai.py is the training code. I used Amit Chaudary's Universal Sentence Encoder Code for the training code but added usability improvements.  
+A Discord Bot that detects cyberbullying using Sentiment Analysis. bot.py is the bot code. sentai.py is the training code. I used Amit Chaudhary's Universal Sentence Encoder Code for the training code but added usability improvements.  
 
 ### Steps to use: 
 1. Set up an Anaconda environment on Windows 10 with the requirements below. 
